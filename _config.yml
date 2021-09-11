@@ -6,8 +6,8 @@ theme: jekyll-theme-leaf
 permalink: :slug
 
 social:
-  twitter: https://twitter.com/Toledo7081
-  github: https://github.com/Toledo708
+  twitter: Toledo7081
+  github:  Toledo708
 
 plugins:
  - jekyll-feed
